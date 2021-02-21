@@ -1,5 +1,5 @@
 *.cabal
-
+*.yaml.lock
 # sorted default .gitignore from github/gitignore/Haskell.gitignore
 *.aux
 *.chi
